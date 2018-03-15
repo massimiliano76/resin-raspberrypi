@@ -1,6 +1,8 @@
 Change log
 -----------
 
+* Use filesystem label instead of physical partition number for the kernel cmdline root parameter [TheOnlyZby]
+
 # v2.12.3+rev1
 ## (2018-03-15)
 
