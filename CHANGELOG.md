@@ -1,6 +1,8 @@
 Change log
 -----------
 
+* Include balena fin dtbo in OS [Andrei]
+
 # v2.12.5+rev2
 ## (2018-04-03)
 
